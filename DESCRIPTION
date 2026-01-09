@@ -33,7 +33,7 @@ Description: Social Relation Model (SRM) analyses for single or multiple
 License: GPL (>= 2)
 LazyLoad: yes
 NeedsCompilation: no
-Packaged: 2026-01-09 10:37:35 UTC; felix
+Packaged: 2026-01-09 11:08:32 UTC; felix
 Author: Felix D. Schönbrodt [cre, aut],
   Mitja D. Back [aut],
   Stefan C. Schmukle [aut]
