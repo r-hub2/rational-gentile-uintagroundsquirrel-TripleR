@@ -1,5 +1,5 @@
 %\VignetteIndexEntry{How to use TripleR (Vignette)}
-%\VignetteEngine{knitr::asis}
-%\VignetteEncoding{UTF-8}
+%\VignetteEngine{R.rsp::asis}
+%\VignetteKeyword{PDF}
 %\VignetteKeyword{vignette}
 %\VignetteKeyword{package}

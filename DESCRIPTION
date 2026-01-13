@@ -16,7 +16,7 @@ Authors@R: c(person(given = c("Felix", "D."),
                       family = "Schmukle",
                       role = "aut")
                )
-Maintainer: Felix Schönbrodt <felix.schoenbrodt@psy.lmu.de>
+Maintainer: Felix D. Schönbrodt <felix.schoenbrodt@psy.lmu.de>
 Depends: ggplot2 (>= 0.9.3)
 Imports: reshape2, plyr
 Suggests: lme4, R.rsp
@@ -33,7 +33,7 @@ Description: Social Relation Model (SRM) analyses for single or multiple
 License: GPL (>= 2)
 LazyLoad: yes
 NeedsCompilation: no
-Packaged: 2026-01-09 11:08:32 UTC; felix
+Packaged: 2026-01-13 13:53:51 UTC; felix
 Author: Felix D. Schönbrodt [cre, aut],
   Mitja D. Back [aut],
   Stefan C. Schmukle [aut]
